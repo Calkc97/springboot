@@ -1,0 +1,32 @@
+INSERT INTO `consultory_appointments` VALUES (1,'2020-01-04','2020-01-04','12:30','13:00','0','0','897049',1);
+INSERT INTO `consultory_appointments` VALUES (2,'2020-01-05','2020-01-05','15:15','15:30','0','0','852272',2);
+INSERT INTO `consultory_appointments` VALUES (3,'2020-01-06','2020-01-06','17:40','18:10','0','0','627313',3);
+INSERT INTO `consultory_appointments` VALUES (4,'2020-01-07','2020-01-08','20:00','02:00','0','0','452565',4);
+INSERT INTO `consultory_appointments` VALUES (5,'2020-01-08','2020-01-08','10:10','10:40','0','0','626961',5);
+INSERT INTO `consultory_appointments` VALUES (6,'2020-01-09','2020-01-09','13:30','14:00','0','0','747552',6);
+INSERT INTO `consultory_appointments` VALUES (7,'2020-01-10','2020-01-10','11:00','12:00','0','0','172536',7);
+INSERT INTO `consultory_appointments` VALUES (8,'2020-01-10','2020-01-10','13:00','14:00','0','0','521702',8);
+INSERT INTO `consultory_appointments` VALUES (9,'2020-01-11','2020-01-12','23:00','03:00','0','0','269343',9);
+INSERT INTO `consultory_appointments` VALUES (10,'2020-01-12','2020-01-12','19:00','19:40','0','0','200034',10);
+
+INSERT INTO `laboratory_appointments` VALUES (1,'2020-01-04','2020-01-04','12:30','13:00','0','0','897049',1,1);
+INSERT INTO `laboratory_appointments` VALUES (2,'2020-01-05','2020-01-05','15:15','15:30','0','0','852272',2,2);
+INSERT INTO `laboratory_appointments` VALUES (3,'2020-01-06','2020-01-06','17:40','18:10','0','0','627313',3,3);
+INSERT INTO `laboratory_appointments` VALUES (4,'2020-01-07','2020-01-08','20:00','02:00','0','0','452565',4,4);
+INSERT INTO `laboratory_appointments` VALUES (5,'2020-01-08','2020-01-08','10:10','10:40','0','0','626961',5,5);
+INSERT INTO `laboratory_appointments` VALUES (6,'2020-01-09','2020-01-09','13:30','14:00','0','0','747552',6,6);
+INSERT INTO `laboratory_appointments` VALUES (7,'2020-01-10','2020-01-10','11:00','12:00','0','0','172536',7,7);
+INSERT INTO `laboratory_appointments` VALUES (8,'2020-01-10','2020-01-10','13:00','14:00','0','0','521702',8,8);
+INSERT INTO `laboratory_appointments` VALUES (9,'2020-01-11','2020-01-12','23:00','03:00','0','0','269343',9,9);
+INSERT INTO `laboratory_appointments` VALUES (10,'2020-01-12','2020-01-12','19:00','19:40','0','0','200034',10,10);
+
+INSERT INTO `qx_appointments` VALUES (1,'2020-01-04','2020-01-04','12:30','13:00','0','0','897049',1,1);
+INSERT INTO `qx_appointments` VALUES (2,'2020-01-05','2020-01-05','15:15','15:30','0','0','852272',2,2);
+INSERT INTO `qx_appointments` VALUES (3,'2020-01-06','2020-01-06','17:40','18:10','0','0','627313',3,3);
+INSERT INTO `qx_appointments` VALUES (4,'2020-01-07','2020-01-08','20:00','02:00','0','0','452565',4,4);
+INSERT INTO `qx_appointments` VALUES (5,'2020-01-08','2020-01-08','10:10','10:40','0','0','626961',5,5);
+INSERT INTO `qx_appointments` VALUES (6,'2020-01-09','2020-01-09','13:30','14:00','0','0','747552',6,6);
+INSERT INTO `qx_appointments` VALUES (7,'2020-01-10','2020-01-10','11:00','12:00','0','0','172536',7,7);
+INSERT INTO `qx_appointments` VALUES (8,'2020-01-10','2020-01-10','13:00','14:00','0','0','521702',8,8);
+INSERT INTO `qx_appointments` VALUES (9,'2020-01-11','2020-01-12','23:00','03:00','0','0','269343',9,9);
+INSERT INTO `qx_appointments` VALUES (10,'2020-01-12','2020-01-12','19:00','19:40','0','0','200034',10,10);
